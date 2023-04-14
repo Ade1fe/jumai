@@ -3,7 +3,7 @@
 		const apiKey = "34748321-56ec586673804760cca13f7f6";
 
 		// List of category keywords
-		const categories = ["purse", "fashion", "pan", "table", "perfume", "cups"];
+		const categories = ["purse", "television", "pan", "table", "perfume", "cups","shirts","shoes","refrigerator","fan"];
         const myPrice = [" #2500", "#5000", "#3500", "#7500", "#2500", "#4000"]
         const myPriceTwo = [" #2700", "#9500", "#4500", "#7600", "#3900", "#4050"]
 
